@@ -7,7 +7,7 @@ author_profile: true
 
 In the academic year 2024-2025, I am teaching:
 - Autumn 2024: Math 21 Calculus
-- Spring 2024: Math 113 Linear algebra and Math 276 Topics in Number theory
+- Spring 2024: Math 113 Linear algebra and Math 249C Topics in Number theory
 
 Previously, I taught
 - Autumn 2023: Math 20 Calculus
