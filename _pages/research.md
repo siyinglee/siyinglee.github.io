@@ -8,16 +8,24 @@ author_profile: true
 ### p-isogenies with G-structure
 ##### joint with Keerthi Madapusi
 
+We construct stacks of p-isogenies with G-structure over Shimura varieties of abelian type at hyperspecial level.
+
 (in preparation)
 
 ### Unramifiedness of weight one representations for Hilbert modular varieties 
 
-(draft under revision) In this paper, I show that if the residual degree is odd, then the mod p Galois representation attached to coherent cohomology of the Hilbert modular variety in weight one is unramified at p.
+In this paper, I show that if the residual degree is odd, then the mod p Galois representation attached to a Hecke eigenclass in the higher coherent cohomology of the Hilbert modular variety in weight one is unramified at p.
+
+(Warning: This paper is currently still in draft form, in particular, it should be possible to make an argument directly for the mod p Hecke algebra)
+
+[Download paper here](../files/weightone.pdf)
 
 ### Constructing vector-valued automorphic forms on unitary groups
 ##### joint with Thomas L. Browning, Pavel Coupek, Ellen Eischen, Claire Frechette, Serin Hong and David Marcil
 
 In this paper, we extend ideas of Clery-van der Geer in the Siegel case to construct autormphic forms on unitary Shimura varieties via differential operators.
+
+[Download paper here](../files/AWS.pdf)
 
 ### Torsion vanishing for some Shimura varieties
 ##### joint with Linus Hamann
