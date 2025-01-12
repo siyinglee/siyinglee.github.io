@@ -16,9 +16,7 @@ We construct stacks of p-isogenies with G-structure over Shimura varieties of ab
 
 In this paper, I show that if the residual degree is odd, then the mod p Galois representation attached to a Hecke eigenclass in the higher coherent cohomology of the Hilbert modular variety in weight one is unramified at p.
 
-(Warning: This paper is currently still in draft form, and will be continually revised)
-
-[Download paper here](../files/weightone.pdf)
+(Under revision)
 
 ### Constructing vector-valued automorphic forms on unitary groups
 ##### joint with Thomas L. Browning, Pavel Coupek, Ellen Eischen, Claire Frechette, Serin Hong and David Marcil
