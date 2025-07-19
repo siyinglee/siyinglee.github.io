@@ -38,7 +38,7 @@ In this paper, we extend the results of Caraiani-Scholze and show torsion vanish
 
 In this paper, I show that some part of the étale cohomology of some abelian type Shimura varieties is semisimple as a Galois representation.
 
-[Revised version, newer than arXiv](../files/semi.pdf)
+[Link](../files/semi.pdf)
 [arXiv](https://arxiv.org/abs/2206.07283)
 
 ### Eichler-Shimura relations for Shimura varieties of Hodge type
