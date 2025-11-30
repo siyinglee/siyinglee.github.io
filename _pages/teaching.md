@@ -7,7 +7,7 @@ author_profile: true
 
 In the academic year 2025-2026: I am teaching
 - MA2108: Mathematical Analysis I
-- MA6201: Topics in Algebra and Number Theory
+- MA6201: Topics in Algebra and Number Theory [Webpage](../files/ma6201.html)
 
 
 Previously, I taught
