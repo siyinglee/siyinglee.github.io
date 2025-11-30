@@ -5,11 +5,14 @@ permalink: /teaching/
 author_profile: true
 ---
 
-In the academic year 2024-2025, I am teaching:
-- Autumn 2024: Math 21 Calculus
-- Spring 2024: Math 113 Linear algebra and Math 249C Topics in Number theory
+In the academic year 2025-2026: I am teaching
+- MA2108: Mathematical Analysis I
+- MA6201: Topics in Algebra and Number Theory
+
 
 Previously, I taught
+- Autumn 2024: Math 21 Calculus
+- Spring 2024: Math 113 Linear algebra and Math 249C Topics in Number theory
 - Autumn 2023: Math 20 Calculus
 - Spring 2024: Math 216C Algebraic Geometry
 
